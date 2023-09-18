@@ -8,7 +8,7 @@
 
 ## How to start
 ```shell
-$ git clone sajacaros/branch-practice
+$ git clone https://github.com/sajacaros/branch-practice
 $ cd branch-practice
 ```
 
