@@ -1,4 +1,4 @@
-# conventional-fizzbuzz
+# branch-practice
 
 이 프로젝트는 git의 granch를 연습하는 저장소입니다.
 
